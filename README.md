@@ -1,6 +1,4 @@
-Great 🚀 Let’s polish your **README.md** into a professional submission-ready version.
 
-Here’s a detailed **README template** for your project **EduCertify** 👇
 
 ---
 
@@ -59,7 +57,7 @@ EduCertify/
 
 ## 📜 Smart Contract
 
-* **Contract Address:** `0xYourDeployedContractAddress`
+* **Contract Address:** `0x2c0339b13c805b62a62fe6b2fccbc0d5d11b902d2245148351515659d5e7ffaa`
 * **Deployed on:** Aptos Testnet
 
 ---
